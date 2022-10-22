@@ -6,5 +6,5 @@ double func(double a, double b) {
 }
 
 void main() {
-  print(func(14, 7));
+  print(func(21, 7));
 }
