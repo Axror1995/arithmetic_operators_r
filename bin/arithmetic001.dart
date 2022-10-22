@@ -9,5 +9,5 @@ int func(int a) {
 }
 
 void main() {
-  print(func(46));
+  print(func(35));
 }
