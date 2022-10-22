@@ -6,5 +6,5 @@ int func(int a, int b) {
 }
 
 void main() {
-  print(func(4, 7));
+  print(func(4, 8));
 }
