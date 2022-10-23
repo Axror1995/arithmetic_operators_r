@@ -4,7 +4,7 @@
 import 'dart:math';
 
 double func(int a, int b,int c) {
-  return ((b-2)*a)/(a+pow(c,2));
+  return (b-2)*a/(a+pow(c,2));
 }
 
 void main() {
